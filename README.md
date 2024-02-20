@@ -14,6 +14,7 @@ interests 🔭 :star2:
 - qa + automation
 - mobile development
 
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://64.media.tumblr.com/4957ef0d5a98a56580159a4123babae7/tumblr_o25c7x2T8M1uspgxxo1_400.gifv))
 <!--
 **ladanguled/ladanguled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
