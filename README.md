@@ -1,4 +1,4 @@
-### hi there, i'm ladan!
+### hi there, i'm ladan! :bulb:
 i am in my last semester of computer science @ the university of ottawa.
 
 i have a deep passion for problem solving and learning.
