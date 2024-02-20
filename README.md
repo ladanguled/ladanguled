@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there!
+My name is Ladan, I am in my last semester of Computer Science @ the University of Ottawa.
 
+I have a deep passion for problem solving and learning.
+I love all things related to technology and how it impacts people.
+
+- 🔭 I’m currently working on refining my web and mobile dev skills.
+- 🌱 I’m currently learning Flutter.
+- 👯 I’m looking to collaborate on any projects with a major social impact.
+- 📫 How to reach me: lladanguled@gmail.com
+  
 <!--
 **ladanguled/ladanguled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
