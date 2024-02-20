@@ -8,7 +8,7 @@ how to reach me:
 - lladanguled@gmail.com
 - [linkedin](https://www.linkedin.com/in/ladan-guled/)
 
-interests 🔭
+interests 🔭 :star2:
 - full stack development
 - data science / engineering
 - qa + automation
