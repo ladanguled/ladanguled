@@ -5,7 +5,7 @@ i have a deep passion for problem solving and learning.
 i love all things related to technology and how it impacts people.
 
 how to reach me: 
-- email: lladanguled@gmail.com
+- lladanguled@gmail.com
 - [linkedin](https://www.linkedin.com/in/ladan-guled/)
 
 interests 🔭
