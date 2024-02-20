@@ -14,6 +14,7 @@ interests 🔭 :star2:
 - qa + automation
 - mobile development
 
+thanks for coming!
 <!--
 **ladanguled/ladanguled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
