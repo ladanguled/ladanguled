@@ -9,10 +9,9 @@ how to reach me:
 - [linkedin](https://www.linkedin.com/in/ladan-guled/)
 
 interests 🔭 :star2:
-- full stack development
+- front end development
 - data science / engineering
 - qa + automation
-- mobile development
 
 thanks for coming!
 <!--
